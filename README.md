@@ -12,6 +12,9 @@ Database Used: .dat file extension generated using C++ file system.
 Features:
 ---------
 • Can Add Student Information
+
 • Display Student Individual Grade
+
 • Search Existing Student
+
 • Update Student Grade
