@@ -4,13 +4,13 @@ The Student Report Card Management System in C++ is a desktop application coded 
 
 Basic Information:
 ------------------
-• Language Used:- C++
+• Language Used:-  C++
 
-• Coding tool Used:- VS Code and Code Blocks
+• Coding tool Used:-  VS Code and Code Blocks
 
-• Type: Desktop Application
+• Type:-  Desktop Application
 
-• Database Used: .dat file extension generated using C++ file system.
+• Database Used:-  .dat file extension generated using C++ file system.
 
 Features:
 ---------
