@@ -6,7 +6,7 @@ Basic Information:
 ------------------
 Language Used:- C++
 
-Coding tool Used:- VS Code and Code Blocks
+• Coding tool Used:- VS Code and Code Blocks
 
 • Type: Desktop Application
 
