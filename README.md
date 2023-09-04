@@ -1,4 +1,3 @@
-
 # Student Report Card Management System
 
 The Student Report Card Management System is a console-based application coded in a C++ programming language. The project contains basic functionality that allows users to generate the student's report card. This project was created to fasten the distribution of grade records to each student. This will make it easier for the teacher to compute the General Average for the student's grade.
@@ -9,7 +8,6 @@ The Student Report Card Management System is a console-based application coded i
 - Display Student's Individual Grade & Other Info
 - Search Existing Student Data
 - Update Student's Grade
-
 
 ## Screenshots
 
