@@ -24,6 +24,7 @@ public:
 };
 
 // calculate function of student class:
+
 void student::calculate(){
     percentage = (phyMarks + cheMarks + mathsMarks + engMarks + csMarks)/5.0;
     if(percentage >= 80){
